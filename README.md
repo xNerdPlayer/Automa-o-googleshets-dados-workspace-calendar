@@ -1,2 +1,2 @@
 # Automa-o-googleshets-dados-workspace-calendar
-Script de coleta de dados do google agenda para o google sheets, organização de dados e exibição de dashboard automático
+Sistema de Análise de dados para previsão de demanda e alocação de recursos, com interface de visualização em google sheets e app script.
